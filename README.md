@@ -5,7 +5,7 @@ I'm a **BSCS 5th Semester student at NUML University, Islamabad** and a **Full-S
 - 🚀 Practical developer with hands-on experience building web and Android applications
 - 🌐 Built multiple self-driven web projects and continuously improving through hands-on practice
 - 🧠 Strong grip on core concepts; currently improving the same stack I use (Java/XML, JavaScript, React, Node.js, SQL, Firebase)
-- 💼 Open to **Freelance, Internship, and Entry-level** opportunities | 📫 **[ranayasir90@gmail.com](mailto:ranayasir90@gmail.com)**
+- 💼 Open to **Freelance, Internship, and Entry-level** opportunities | 📫 **[yasirrana9053@gmail.com](mailto:yasirrana9053@gmail.com)**
 
 ---
 
@@ -84,7 +84,6 @@ I'm a **BSCS 5th Semester student at NUML University, Islamabad** and a **Full-S
 
 <br/><br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranayasir-90&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
