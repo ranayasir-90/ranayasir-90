@@ -64,7 +64,7 @@ I'm a **BSCS 5th Semester student at NUML University, Islamabad** and a **Full-S
 | Project | Category | Stack | Status |
 |---|---|---|---|
 | 🔐 [EnDecLab](https://github.com/ranayasir-90/EnDecLab) | Web Platform | `Node.js` `Express` `EJS` `CSS` | ✅ Completed |
-| 🍽️ Smart Dine | Android App | `Java` `XML` | ✅ Completed |
+| 🍽️ [Smart Dine](https://github.com/ranayasir-90/smartDine) | Android App | `Java` `XML` | ✅ Completed |
 | 📱 Daily Drop | Android App | `Java` `XML` | ✅ Completed |
 | 💡 Next Build | SaaS Dashboard | `React` `Node.js` `TypeScript` `Docker` | 🚧 In Progress |
 
