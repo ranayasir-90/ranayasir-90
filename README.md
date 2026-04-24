@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I'm a **BSCS 5th Semester student at NUML University, Islamabad** and a **Full-Stack + Android Developer** focused on building practical web and mobile applications.
+I'm a **student at NUML University, Islamabad** and a **Full-Stack + Android Developer** focused on building practical web and mobile applications.
 
 - 🚀 Practical developer with hands-on experience building web and Android applications
 - 🌐 Built multiple self-driven web projects and continuously improving through hands-on practice
